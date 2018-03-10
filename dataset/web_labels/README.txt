@@ -1,0 +1,1 @@
+put masks obtained from co-segmentation here.
